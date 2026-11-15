@@ -1,0 +1,14 @@
+{
+  "name": "Orbit — 공부 궤도",
+  "short_name": "Orbit",
+  "description": "원 하나로 계획하고, 재고, 기록하는 공부 관리 앱",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F0E8",
+  "theme_color": "#F3F0E8",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
